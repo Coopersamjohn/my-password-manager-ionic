@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "my-password-manager-ionic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
